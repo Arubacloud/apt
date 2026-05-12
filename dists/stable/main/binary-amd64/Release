@@ -1,0 +1,5 @@
+Component: main
+Origin: Arubacloud
+Label: Arubacloud CLI
+Architecture: amd64
+Description: Official apt repository for the Aruba Cloud CLI
