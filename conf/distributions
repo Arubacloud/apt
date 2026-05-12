@@ -1,0 +1,7 @@
+Origin: Arubacloud
+Label: Arubacloud CLI
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Official apt repository for the Aruba Cloud CLI
+SignWith: FCE74C4292A6302089B4C98442A7DE3F298D6FB8
