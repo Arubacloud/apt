@@ -1,28 +1,28 @@
 Origin: Arubacloud
 Label: Arubacloud CLI
 Codename: stable
-Date: Thu, 18 Jun 2026 09:55:21 UTC
+Date: Fri, 19 Jun 2026 06:10:38 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Official apt repository for the Aruba Cloud CLI
 MD5Sum:
- ed78daabbf7aa009b891eb9094dc60c6 535 main/binary-amd64/Packages
- 2a57791ec7754d9b66728c65a21c03b1 395 main/binary-amd64/Packages.gz
+ a2d5200f10229018829a9bcfb13837b9 535 main/binary-amd64/Packages
+ d707b0aac35ab232332ff1c12cda8031 394 main/binary-amd64/Packages.gz
  636000d4bcc69aa5fceb64aa129b2e7a 138 main/binary-amd64/Release
- af0c0a06efdda972c2822d969ab14952 505 main/binary-arm64/Packages
- 7927aa703a58775e7bc1ccc81e95dcf4 383 main/binary-arm64/Packages.gz
+ a126152d5eecf41598bc15720be5f7dd 505 main/binary-arm64/Packages
+ 51eac0c142eccd4830a0e6f81686d5db 383 main/binary-arm64/Packages.gz
  61fc6236e9336fb9171495de91b44ae5 138 main/binary-arm64/Release
 SHA1:
- 1a0dd4b514e5e59f2a4d870d101c038d54a64328 535 main/binary-amd64/Packages
- 72d0779ace01df0b57a3ea78977823e431a06fc6 395 main/binary-amd64/Packages.gz
+ 237e097fe68c04c42159563cab01130b69bc2db8 535 main/binary-amd64/Packages
+ 78534b379aca2a2a017de2e8dd0f38392f25840d 394 main/binary-amd64/Packages.gz
  de94732130ba244943000bf5e7d521bb61358606 138 main/binary-amd64/Release
- 4ea3d559c2be60f04a1f36370cae0e7748626254 505 main/binary-arm64/Packages
- e72fec6dc3de69de4910d3e97f127dabfac0925c 383 main/binary-arm64/Packages.gz
+ efb8f0dcf052eff054b6ff7aa548bebc7ad26b0b 505 main/binary-arm64/Packages
+ 8aa29dd3293b7e07b7d2332dd3fe345a99d4c956 383 main/binary-arm64/Packages.gz
  bcfd70dffa6d22f2cc5421642f85a707f1f01f1d 138 main/binary-arm64/Release
 SHA256:
- cea17908c7eae814cfe9bea25fb041fa8b58370d69d7e1df7e41cad73275b229 535 main/binary-amd64/Packages
- ae6643a1a6bed36fdf6c2779a012f42a22390500d5115851f93c6b932f4445aa 395 main/binary-amd64/Packages.gz
+ 511e0e5dd9c2bff72af5045434c3187123c88463937b1a648ac5c0332eeb3b01 535 main/binary-amd64/Packages
+ 0fde4e7444220c8212ce1dd4ee91e65c841af4b195931dd895d6362b449ef3df 394 main/binary-amd64/Packages.gz
  166502adb448832a1c5dff4b12cc0ba680f53fb92667b948cc7358272a45fe3c 138 main/binary-amd64/Release
- c82dffc5894fe99e82472f65a06cce6a521a3291e3fa45ab249298b014699a54 505 main/binary-arm64/Packages
- 80ec0f50c240586e094e9dee1d366cf5131e79b98382aefd1ba0ffd578b3869a 383 main/binary-arm64/Packages.gz
+ 526eb5edc945e822a15a16a566f397403c2bbd96a1b943240943b132b8cdf8ee 505 main/binary-arm64/Packages
+ 717403d627baa1ca9686eab1f08bd0d11b5137cdde998c2e47fbe91ad732bc6a 383 main/binary-arm64/Packages.gz
  af683bb57cc79474883bb7310deec85daa6088466c15516766a601105cd9cac3 138 main/binary-arm64/Release
