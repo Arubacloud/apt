@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: Arubacloud
 Label: Arubacloud CLI
 Codename: stable
-Date: Fri, 19 Jun 2026 06:10:38 UTC
+Date: Fri, 19 Jun 2026 14:46:13 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Official apt repository for the Aruba Cloud CLI
 MD5Sum:
- a2d5200f10229018829a9bcfb13837b9 535 main/binary-amd64/Packages
- d707b0aac35ab232332ff1c12cda8031 394 main/binary-amd64/Packages.gz
+ b6c1ac29c442d278c1d5f8b92e108d76 535 main/binary-amd64/Packages
+ 7cc30dd571716e5adb2d81ec09bb3100 394 main/binary-amd64/Packages.gz
  636000d4bcc69aa5fceb64aa129b2e7a 138 main/binary-amd64/Release
- a126152d5eecf41598bc15720be5f7dd 505 main/binary-arm64/Packages
- 51eac0c142eccd4830a0e6f81686d5db 383 main/binary-arm64/Packages.gz
+ 49b2e7fc05292f23418a23a7b81a9ffa 505 main/binary-arm64/Packages
+ d6e9168da9e0e2f9cb5f18f6414d4425 383 main/binary-arm64/Packages.gz
  61fc6236e9336fb9171495de91b44ae5 138 main/binary-arm64/Release
 SHA1:
- 237e097fe68c04c42159563cab01130b69bc2db8 535 main/binary-amd64/Packages
- 78534b379aca2a2a017de2e8dd0f38392f25840d 394 main/binary-amd64/Packages.gz
+ 4324626116ed8e0ab6ef6a15afd5c52a3246fdf7 535 main/binary-amd64/Packages
+ 3c582cbb691bef707cdf69481a68965b03834ec5 394 main/binary-amd64/Packages.gz
  de94732130ba244943000bf5e7d521bb61358606 138 main/binary-amd64/Release
- efb8f0dcf052eff054b6ff7aa548bebc7ad26b0b 505 main/binary-arm64/Packages
- 8aa29dd3293b7e07b7d2332dd3fe345a99d4c956 383 main/binary-arm64/Packages.gz
+ e214fd06e4970d5c83a9197342d1faff2eede621 505 main/binary-arm64/Packages
+ 06070d51ae3923b453bce955e34035c22a290746 383 main/binary-arm64/Packages.gz
  bcfd70dffa6d22f2cc5421642f85a707f1f01f1d 138 main/binary-arm64/Release
 SHA256:
- 511e0e5dd9c2bff72af5045434c3187123c88463937b1a648ac5c0332eeb3b01 535 main/binary-amd64/Packages
- 0fde4e7444220c8212ce1dd4ee91e65c841af4b195931dd895d6362b449ef3df 394 main/binary-amd64/Packages.gz
+ 2ea3ca1608f1b178431ef291b3579d36c5e73e95256f9450d7d63eda109cd7e0 535 main/binary-amd64/Packages
+ 5436c7dfd4b1ffdaaecd908cedc73c595fd84ce0a689b2e5188497acfd0c7fb8 394 main/binary-amd64/Packages.gz
  166502adb448832a1c5dff4b12cc0ba680f53fb92667b948cc7358272a45fe3c 138 main/binary-amd64/Release
- 526eb5edc945e822a15a16a566f397403c2bbd96a1b943240943b132b8cdf8ee 505 main/binary-arm64/Packages
- 717403d627baa1ca9686eab1f08bd0d11b5137cdde998c2e47fbe91ad732bc6a 383 main/binary-arm64/Packages.gz
+ 7394276ac9adbdfa1f18aaccd46efa5787fe22a7a9406908d6625d7ea63db2e8 505 main/binary-arm64/Packages
+ b05a0550a9e778a9b94ac906d50f755905bb3cb7510333c326644bb7bbacfd49 383 main/binary-arm64/Packages.gz
  af683bb57cc79474883bb7310deec85daa6088466c15516766a601105cd9cac3 138 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEJiF/OMbA4YFsrirU9KRcrIdrsd0FAmo03V4ACgkQ9KRcrIdr
-sd0mBQ//Q6nwGedyHQO0hyZzypkE1qbtmq6S+ZEZLyPHdvUq9RYuhUumME/1I2Lr
-79H9jrP6/aLBspDh9bTfdYt9Y9BoMPrpiGTe6bV7YQcm+nM07dcX93tHm/XCSnYR
-2vhBLfwb3wmhnFLRsrEeDwlgMCJMLIqQ6fqFgBRryEu46QUY2WYny3lxyVqjicPa
-35hOy7JM4guZRYAh5Rc0Nk9mxwq6XjmYYfgVHH3eWeMFUHBEOr/wMZZTtvqop2Co
-ZRSH1q+xtJmoMyuK4Q5fAsskIXsmDZ9dViAg1oi1mnsHxn/PInMr3B775Oru1Ydo
-zMXvJ1MjFSvzSq3EkdwpCW/AN8omuCEVT7yRRNLhGbSzS2crKigKml7BUIfxFrEi
-rv/1RpCBMs+8O5G/TR49J2nT/IanCyOF13IjSBPdC38rir2FtKfzxyjqHPzfAchV
-wzRFxhT5qPCZXxVfpk1UrtCyqcs9cEoNK4I8KRCjFubTxLAUvey1oisStrSvAoD+
-/DyQ9392NbH4z64Y31gBuo9i9Ah27rsNYAZDKT4TJLui7pQXG9qdoK313Ev4YcYD
-voTtLsy8Qe7PmfZfG1K67T/uNfSG0b5cEQjvU1yJsHQno9KHDlvihoFDVg1LdssG
-ibtpjV15zVcbh+qmHbz3Cb8LUu62+A77742cSf8Y1xNxd7fa6MY=
-=vqm8
+iQIzBAEBCgAdFiEEJiF/OMbA4YFsrirU9KRcrIdrsd0FAmo1VjUACgkQ9KRcrIdr
+sd0EBQ//X23Yz3XRLJcBqqpEQfZysNA8Oicv8mMcKbNsrnvubIRRt6xD9vkgAA32
+6PU2hAwgIecGgV7uTBP0t/Xr0oCYRqgSTF0s1RaxvI32IPmLFcVjCl4veqpGQ0RI
+YaVcAkGpKy8hV8+sZMdBjb1qCSLmuWwj3HyLuaMmXKLwsDOZ4OLQ38MKC/KWc1IB
+YON2nHy+gWy1kCJ6llL6qMadkLQpecxgjV4JUdsM3HpO4RDH9ETvfMdJVXZZLLWN
+m79Yu0OlqeYqr7IwvXHkN+w+QYgJUp+W9A9jaJWozKglFPJw7OvmFh0yQLyjTChZ
+AqCvL51pKvq14QgVAt4tk6TLBJgFzyyUvtyUKcVAFF89YW/Da2I7NawtOlCVoKZI
+DsmNHCkFTNsuLsMZeZJdBgw+tX5gjR16kWsQqE3327sMpqOzlBHkd8tex3UhuSLM
+NB8sTAe/nE1D5c6nibv5SgZFWxeKvMUIv5Qm/PSZdV9GBgVD8YvLXBQ39f+3RKSk
+rWc+kxMqpA5pKI2Ca+aDQ/snq5xAi90CbMOvmPRgO7GA7flClhP2l8yoGm35UkVp
+OleDNBZj3VkyJ/dqUtjVObMlUCNgtuH2K+lvGLK1YexvHetyWr+BxHMS+KJ24t56
+bj9P3wM3PCvqaLGmCV5P0veykj0auq+RfUWbHalawTDOrycjOS8=
+=xpiI
 -----END PGP SIGNATURE-----
