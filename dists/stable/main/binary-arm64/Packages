@@ -1,15 +1,15 @@
 Package: acloud
-Version: 0.5.2
+Version: 0.5.3
 Architecture: arm64
 Maintainer: Aruba <support@aruba.it>
 Installed-Size: 17867
 Homepage: https://github.com/Arubacloud/acloud-cli
 Priority: optional
 Section: 
-Filename: pool/main/a/acloud/acloud_0.5.2_arm64.deb
-Size: 5790870
-SHA256: b9a55715ba8e88eb91bf056d6ff1528ba0c08d94718b0999e245a4e7c84e67ae
-SHA1: 116a14b72419a6735b2bdb65ba110a4e6cbe4fc1
-MD5sum: 0e0b2fdfa97cc9c43d408d2f51d3231a
+Filename: pool/main/a/acloud/acloud_0.5.3_arm64.deb
+Size: 5790868
+SHA256: 690691ca11ce92ae420332e0f6cf19ee0d1800078abe5cabc1897ba00e92e613
+SHA1: 81dcfb04c1f6e049d2a8cc048bb085382dd1e3ff
+MD5sum: ef957ed22bf73c1b70a42056ea0c1576
 Description: Official CLI for Aruba Cloud — manage cloud resources from the terminal
 
